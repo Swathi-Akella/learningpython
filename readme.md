@@ -1,1 +1,1 @@
-"## This is my first learning example" 
+## This is my first learning example
